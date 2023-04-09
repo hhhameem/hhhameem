@@ -4,7 +4,7 @@
 let info = {
     name: "Hebron Hossain Hamim",
     pronounce: "He/Him",
-    aboutMe: "A passionate QA Engineer just hoped into SQA world and learning automation as well as manual testing"
+    aboutMe: "A passionate QA Engineer just hopped into SQA world and learning automation as well as manual testing",
     askMeAbout: ["#SQA", "#QA", "#Automation", "#AppAutomation", "#WebAutomation"],
     workplace: [
         {
