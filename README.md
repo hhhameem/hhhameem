@@ -4,23 +4,29 @@
 let info = {
     name: "Hebron Hossain Hamim",
     pronounce: "He/Him",
-    aboutMe: "A passionate QA Engineer just hopped into SQA world and learning automation as well as manual testing",
+    aboutMe: "A passionate QA Engineer just hopped into SQA world and learning QA tools and techniques to sharpen my skillset",
     askMeAbout: ["#SQA", "#QA", "#Automation", "#AppAutomation", "#WebAutomation"],
     workplace: [
         {
             company: "Tallykhata",
-            position: "Junior SQA Engineer"
+            position: "Junior SQA Engineer",
+            from: "01 January, 2023",
+            to: "current"
         },
         {
             company: "Annonlab",
-            position: "Junior Software Engineer"
+            position: "Junior Software Engineer",
+            from: "09 May, 2022",
+            to: "12 December, 2022"
         },
         {
             company: "Programming Hero",
-            position: "Web Instructor"
+            position: "Web Instructor",
+            from: "06 January, 2022",
+            to: "08 May, 2022"
         }
         ],
-    techStack: ["JavaScript", "Python","Appium", "Selenium", "Postman", "Rest-Assured", "JMeter"],
+    techStack: ["JavaScript", "Java", "Python", "Appium", "Selenium", "Postman", "Rest-Assured", "JMeter"],
     currentFocus: "Learning automation",
 }
 ```
